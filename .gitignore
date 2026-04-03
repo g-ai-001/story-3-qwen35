@@ -1,0 +1,44 @@
+# 编译产物
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-*
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# 密钥文件
+*.key
+*.pem
+.env
+*.env
