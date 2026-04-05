@@ -19,6 +19,26 @@
 
 ## 版本历史
 
+### v0.5.0 - 异域阴谋
+**发布日期**: 2026-04-05
+
+**新增章节**:
+- 第二十章：不朽之王
+- 第二十一章：帝关危机
+- 第二十二章：万族大会
+- 第二十三章：惊天秘密
+- 第二十四章：黑雾来袭
+
+**本章要点**:
+- 异域不朽之王阿鼻魔祖率军百万入侵帝关
+- 石毅带伤驰援，夜间烧毁敌军粮草辎重
+- 石毅突破重瞳第五段觉醒：预知未来
+- 石昊燃烧生命力，与石毅联手发动至尊骨与重瞳的融合
+- 二人联手击杀阿鼻魔祖，帝关大捷
+- 第二代不朽之王苏醒的危机浮现
+
+**下载链接**: [v0.5.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.5.0)
+
 ### v0.4.0 - 势力崛起
 **发布日期**: 2026-04-05
 
@@ -37,10 +57,7 @@
 - 异域有动静，乱世预言初现
 - 三个月后的石家族比将成为焦点
 
-**下载链接**: [v0.4.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.4.0)
-
-### v0.1.0 - v0.3.0 历史版本
-**下载链接**: [v0.3.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.3.0) | [v0.2.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.2.0) | [v0.1.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.1.0)
+**下载链接**: [v0.5.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.5.0) | [v0.4.0](https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.4.0)
 
 ## 小说规划
 
