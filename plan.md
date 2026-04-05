@@ -129,4 +129,4 @@
 - v0.4.0: 势力崛起 ✓ 已发布 (https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.4.0)
 - v0.5.0: 异域阴谋 ✓ 已发布 (https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.5.0)
 - v0.6.0: 兄弟对峙 ✓ 已发布 (https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.6.0)
-- 0.7.0: 帝关之战 (开发中)
+- 0.7.0: 帝关之战 ✓ 已发布 (https://github.com/g-ai-001/story-3-qwen35/releases/tag/v0.7.0)
